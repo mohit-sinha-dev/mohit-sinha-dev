@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Mohit Sinha 👋
 
-<!--
-**mohit-sinha-dev/mohit-sinha-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+📱 Android Development | Java & Kotlin  
+💻 Interested in Software Development
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Kotlin
+- HTML
+- Android Studio
+- Figma
+- Git & GitHub
+
+## 🚀 Projects
+
+### 🏥 Healthcare App
+An Android healthcare application focused on doctor appointments, hospitals, medicines, emergency ambulance services, and more.
+
+**Tech:** Kotlin, XML, Android Studio
+
+### 💻 More projects coming soon...
+Currently building and learning through practical projects.
+
+## 📚 Currently Learning
+
+- Java
+- Data Structures & Algorithms
+- Android Development
+- Git & GitHub
+
+## 🔗 Connect With Me
+
+- [LinkedIn](www.linkedin.com/in/mohit-sinha-55b791292)
+- [LeetCode](https://leetcode.com/u/mohitsinha_)
